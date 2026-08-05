@@ -1,0 +1,13 @@
+test
+runs
+backgrounds_held
+__pycache__
+obj_train_data
+clips
+images
+labels
+yolo*.pt
+*.zip
+*.data
+*.names
+train.txt

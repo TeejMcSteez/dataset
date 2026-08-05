@@ -1,0 +1,4 @@
+ultralytics
+torch
+imagehash
+cvat-cli[ultralytics]
