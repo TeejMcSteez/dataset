@@ -11,3 +11,4 @@ yolo*.pt
 *.data
 *.names
 train.txt
+models

@@ -2,3 +2,4 @@ ultralytics
 torch
 imagehash
 cvat-cli[ultralytics]
+opencv-python
