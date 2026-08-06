@@ -12,3 +12,4 @@ yolo*.pt
 *.names
 train.txt
 models
+compared
